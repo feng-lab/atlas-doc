@@ -1,0 +1,6 @@
+Atlas 1 : Load Image
+====================
+Load image by dragging file into Atlas window or using the File menu.
+Loaded image will be shown in the upper right "Object Manager" panel: 
+
+.. image:: path/
