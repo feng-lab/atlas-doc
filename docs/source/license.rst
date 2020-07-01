@@ -1,5 +1,28 @@
 Atlas Tutorial
 ==============
+2D Image Control 
+zoom:
+    1) command/control key + =(+)/- key
+    2) =(+)/- key
+zoom in to location:
+    1) =(+) key while pointing mouse cursor to the target location
+
+3D Image Control
+zoom/dolly:
+    1) command/control key + mouse wheel scroll
+    2) command/control key + =(+)/- key
+    3) mouse wheel scroll (might be slow if image is rendered in full-resolution)
+    4) =(+)/- key (might be slow if image is rendered in full-resolution)
+rotate:
+    1) mouse drag
+    2) command/control key + Left/Right/Up/Down key
+shift:
+    1) shift key + mouse drag
+    2) shift key + Left/Right/Up/Down key (might be slow if image is rendered in full-resolution)
+roll:
+    1) alt key + mouse drag
+    2) alt key + Left/Right key (might be slow if image is rendered in full-resolution)
+
 
 1. Load Image
 Load image by dragging file into Atlas window or using the File menu.
