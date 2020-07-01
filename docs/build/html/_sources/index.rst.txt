@@ -1,0 +1,20 @@
+Welcome to the Atlas User Guide!
+================================
+
+Choose a topic from the left to find answers, get step-by-step instructions, and develop your skills. 
+
+Atlas Guideline
+^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 2
+
+   license
+   help
+
+
+
+Atlas Search
+^^^^^^^^^^^^
+
+* :ref:`search`
