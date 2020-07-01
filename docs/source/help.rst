@@ -4,7 +4,7 @@ About Atlas
 Authors
 
 
-Linqing Fenb(feng@kist.re.kr)
+Linqing Feng(feng@kist.re.kr)
 
 
 Center for Functional Connectomics
