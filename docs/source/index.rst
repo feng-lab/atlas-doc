@@ -1,5 +1,5 @@
 Atlas: Neuroimaging Software
-====== ^^^^^^^^^^^^^^^^^^^^^
+============================
 Atlas is an open source software suite for processing, analyzing, and displaying functional MRI(FMRI) data, it is a technique for mapping human and animal brain activity. 
 It is available free in C source code format with some precompiled binaries for research purposes.
 Download is available for Mac OS, Windows, Linux
