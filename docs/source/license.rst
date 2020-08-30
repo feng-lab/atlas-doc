@@ -32,8 +32,8 @@ Open a file, which can be a TIFF or an SWC file or others
 
 
 .. image:: images/file.png
-  :width: 800px
-  :height: 400px
+  :width: 200px
+  :height: 100px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
