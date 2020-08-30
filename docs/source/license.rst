@@ -30,6 +30,7 @@ File
 FIle -> Open...
 Open a file, which can be a TIFF or an SWC file or others
 
+
 .. image:: images/file.png
   :width: 800px
   :height: 400px
@@ -56,6 +57,7 @@ Atlas supports unlimited undo/redo for most SWC & others editing operations
 View
 Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / Normal View / Maximum Z Projection / Montage View / Open 3D WIondow / Screenshot / Enter Full Screen
 
+
 .. image:: images/view.png
   :width: 800px
   :height: 400px
@@ -63,10 +65,12 @@ Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / Normal View / M
   :alt: Atlas Figure1
   :align: center
 
+
 Image
 Stitch Images...
 Align Selections...
 Correct Chromatic Shift...
+
 
 .. image:: images/stitchimages.png
   :width: 800px
@@ -75,9 +79,11 @@ Correct Chromatic Shift...
   :alt: Atlas Figure1
   :align: center
 
+
 ROI
 (# Manual delineation of region of interests (ROIs)
 To obtain the surface ROIs, surface editing functions in Atlas SW)
+
 
 .. image:: images/roi.png
   :width: 800px
@@ -85,6 +91,7 @@ To obtain the surface ROIs, surface editing functions in Atlas SW)
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
+
 
 Import Mask Image...
 To Mask Image...
@@ -92,6 +99,7 @@ To Mask Image...
 Region Annotation
 Import Label Image...
 
+
 .. image:: images/roi.png
   :width: 800px
   :height: 400px
@@ -99,9 +107,11 @@ Import Label Image...
   :alt: Atlas Figure1
   :align: center
 
+
 Puncta
 Detect Puncta...
 Generate Analysis Text Files...
+
 
 .. image:: images/puncta.png
   :width: 800px
@@ -110,9 +120,11 @@ Generate Analysis Text Files...
   :alt: Atlas Figure1
   :align: center
 
+
 Animation
 Make 2D Animation
 Change Animation Settings...
+
 
 .. image:: images/animation.png
   :width: 800px
@@ -120,6 +132,7 @@ Change Animation Settings...
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
+
 
 Open 3D Window
 User can make 3D animation
@@ -132,12 +145,14 @@ Capture
 Help 
 Edit and Output
 
+
 .. image:: images/window.png
   :width: 800px
   :height: 400px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
+
 
 Help
 Search
@@ -177,12 +192,14 @@ roll: <br>
 
 General Shortcut Functions
 
+
 .. image:: images/table.png
   :width: 800px
   :height: 400px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
+
 
 
 Tutorials and Examples
