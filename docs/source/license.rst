@@ -3,13 +3,6 @@ Atlas Tutorial
 
 Contents
 ^^^^^^^^ 
-1. Getting Started
-* 1.1 Installation
-* 1.2 Launch the Program
-2. Technical Details
-* 2.1 Text Tutorials
-* 4.2 Video Tutorials
-3. Future Direction
 
 1. Getting Started
 ^^^^^^^^^^^^^^^^^^
@@ -22,7 +15,7 @@ Contents
 
 1.2 Launch the Program
 ^^^^^^^^^^^^^^^^^^^^^^
-Excutable: 
+* Excutable: 
 * Mac: AtlasInstaller.app
 * Windows: AtlasInstaller.exe
 * Linux: AtlasInstaller
@@ -31,17 +24,29 @@ Excutable:
 ^^^^^^^^^^^^^^^^^^^^
 2.1 Text Tutorials
 ^^^^^^^^^^^^^^^^^^
-2.1.1 General Functions 
+2.1.1 General Functions
+^^^^^^^^^^^^^^^^^^^^^^^ 
 File
 FIle -> Open...
 Open a file, which can be a TIFF or an SWC file or others
-***image insert
+.. image:: images/file.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
 
 Or
 File Icon (First one)
 Open an existing scene file
 
-***image insert2
+.. image:: images/open.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 
 Edit
 Undo/Redo/Copy/Paste/Start Dictation...
@@ -49,33 +54,62 @@ Atlas supports unlimited undo/redo for most SWC & others editing operations
 
 View
 Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / Normal View / Maximum Z Projection / Montage View / Open 3D WIondow / Screenshot / Enter Full Screen
-
+.. image:: images/view.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 Image
 Stitch Images...
 Align Selections...
 Correct Chromatic Shift...
-
+.. image:: images/stitchimages.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 ROI
 (# Manual delineation of region of interests (ROIs)
 To obtain the surface ROIs, surface editing functions in Atlas SW)
-
+.. image:: images/roi.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 Import Mask Image...
 To Mask Image...
 
 Region Annotation
 Import Label Image...
-
+.. image:: images/roi.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 Puncta
 Detect Puncta...
 Generate Analysis Text Files...
-
+.. image:: images/puncta.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 Animation
 Make 2D Animation
 Change Animation Settings...
-
+.. image:: images/animation.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 Open 3D Window
 User can make 3D animation
-
 Window
 Object Manager
 Object View Settings
@@ -84,6 +118,12 @@ Global View Setting
 Capture
 Help 
 Edit and Output
+.. image:: images/window.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 
 Help
 Search
@@ -92,42 +132,46 @@ View Log
 Open Log Folder
 Run Benchmark
 Unit Test
-Run Custom COmmand
+Run Custom Command
 
 2.1.2 Keyboard Shortcuts
+^^^^^^^^^^^^^^^^^^^^^^^^
 Command referred to as Ctrl for Windows PC 
 
-2D Image Control 
-zoom:
-1) command/control & +(bigger), -(smaller)
-2) + / -
-zoom in/out to location:
-1) + / - while pointing mouse cursor to the target location
+2D Image Control <br>
+zoom: <br>
+1) command/control & +(bigger), -(smaller) <br>
+2) + / - <br>
+zoom in/out to location: <br>
+1) + / - while pointing mouse cursor to the target location <br>
 
-3D Image Control
-zoom/dolly:
-1) command/control key + mouse wheel scroll
-2) command/control key + =(+)/- key
-3) mouse wheel scroll (might be slow if image is rendered in full-resolution)
-4) =(+)/- key (might be slow if image is rendered in full-resolution)
-rotate:
-1) mouse drag
-2) command/control key + Left/Right/Up/Down key
-shift:
-1) shift key + mouse drag
-2) shift key + Left/Right/Up/Down key (might be slow if image is rendered in full-resolution)
-roll:
-1) alt key + mouse drag
-2) alt key + Left/Right key (might be slow if image is rendered in full-resolution)
+3D Image Control <br>
+zoom/dolly: <br>
+1) command/control key + mouse wheel scroll <br>
+2) command/control key + =(+)/- key <br>
+3) mouse wheel scroll (might be slow if image is rendered in full-resolution) <br>
+4) =(+)/- key (might be slow if image is rendered in full-resolution) <br>
+rotate: <br>
+1) mouse drag <br>
+2) command/control key + Left/Right/Up/Down key <br>
+shift: <br>
+1) shift key + mouse drag <br>
+2) shift key + Left/Right/Up/Down key (might be slow if image is rendered in full-resolution) <br>
+roll: <br>
+1) alt key + mouse drag <br>
+2) alt key + Left/Right key (might be slow if image is rendered in full-resolution) <br>
 
 General Shortcut Functions
-
-
-
-
+.. image:: images/table.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
 
 
 Tutorials and Examples
+^^^^^^^^^^^^^^^^^^^^^^
 1. Load Image
 Load image by dragging file into Atlas window or using the File menu.
 Loaded image will be shown in the upper right "Object Manager" panel: 
