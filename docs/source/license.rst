@@ -1,11 +1,108 @@
 Atlas Tutorial
 ==============
+
+Contents
+^^^^^^^^ 
+1. Getting Started
+* 1.1 Installation
+* 1.2 Launch the Program
+2. Technical Details
+* 2.1 Text Tutorials
+* 4.2 Video Tutorials
+3. Future Direction
+
+1. Getting Started
+^^^^^^^^^^^^^^^^^^
+* Will be upload the video(already made) 
+
+1.1 Installation
+^^^^^^^^^^^^^^^^
+* Download the Installation File link below (when published then link will be added)
+* Decompress the Downloaded Zip File
+
+1.2 Launch the Program
+^^^^^^^^^^^^^^^^^^^^^^
+Excutable: 
+* Mac: AtlasInstaller.app
+* Windows: AtlasInstaller.exe
+* Linux: AtlasInstaller
+
+2. Technical Details
+^^^^^^^^^^^^^^^^^^^^
+2.1 Text Tutorials
+^^^^^^^^^^^^^^^^^^
+2.1.1 General Functions 
+File
+FIle -> Open...
+Open a file, which can be a TIFF or an SWC file or others
+***image insert
+
+Or
+File Icon (First one)
+Open an existing scene file
+
+***image insert2
+
+Edit
+Undo/Redo/Copy/Paste/Start Dictation...
+Atlas supports unlimited undo/redo for most SWC & others editing operations
+
+View
+Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / Normal View / Maximum Z Projection / Montage View / Open 3D WIondow / Screenshot / Enter Full Screen
+
+Image
+Stitch Images...
+Align Selections...
+Correct Chromatic Shift...
+
+ROI
+(# Manual delineation of region of interests (ROIs)
+To obtain the surface ROIs, surface editing functions in Atlas SW)
+
+Import Mask Image...
+To Mask Image...
+
+Region Annotation
+Import Label Image...
+
+Puncta
+Detect Puncta...
+Generate Analysis Text Files...
+
+Animation
+Make 2D Animation
+Change Animation Settings...
+
+Open 3D Window
+User can make 3D animation
+
+Window
+Object Manager
+Object View Settings
+Object Detailed Info
+Global View Setting
+Capture
+Help 
+Edit and Output
+
+Help
+Search
+Help
+View Log
+Open Log Folder
+Run Benchmark
+Unit Test
+Run Custom COmmand
+
+2.1.2 Keyboard Shortcuts
+Command referred to as Ctrl for Windows PC 
+
 2D Image Control 
 zoom:
-1) command/control key + =(+)/- key
-2) =(+)/- key
-zoom in to location:
-1) =(+) key while pointing mouse cursor to the target location
+1) command/control & +(bigger), -(smaller)
+2) + / -
+zoom in/out to location:
+1) + / - while pointing mouse cursor to the target location
 
 3D Image Control
 zoom/dolly:
@@ -23,7 +120,14 @@ roll:
 1) alt key + mouse drag
 2) alt key + Left/Right key (might be slow if image is rendered in full-resolution)
 
+General Shortcut Functions
 
+
+
+
+
+
+Tutorials and Examples
 1. Load Image
 Load image by dragging file into Atlas window or using the File menu.
 Loaded image will be shown in the upper right "Object Manager" panel: 
