@@ -1,5 +1,6 @@
 Atlas: an Open-Source Software Package for Biological-Image Visualization
 =========================================================================
+
 .. image:: images/AtlasInstaller.icns
   :width: 40px
   :height: 20px
@@ -41,7 +42,7 @@ Atlas aims to provide useful functionality for a broad range of researchers, fro
 
 Quick Start Video
 ^^^^^^^^^^^^^^^^^
-* will add the video 
+* will add the video(->need to create & upload YouTube first) 
 This screencast will help you get started or you can read our 'Atlas Guideline' below. 
 
 Atlas Guideline

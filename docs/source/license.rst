@@ -32,8 +32,8 @@ Open a file, which can be a TIFF or an SWC file or others
 
 
 .. image:: images/file.png
-  :width: 200px
-  :height: 100px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -59,8 +59,8 @@ Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / Normal View / M
 
 
 .. image:: images/view.png
-  :width: 800px
-  :height: 400px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -73,8 +73,8 @@ Correct Chromatic Shift...
 
 
 .. image:: images/stitchimages.png
-  :width: 800px
-  :height: 400px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -84,29 +84,20 @@ ROI
 (# Manual delineation of region of interests (ROIs)
 To obtain the surface ROIs, surface editing functions in Atlas SW)
 
-
-.. image:: images/roi.png
-  :width: 800px
-  :height: 400px
-  :scale: 100%
-  :alt: Atlas Figure1
-  :align: center
-
-
 Import Mask Image...
 To Mask Image...
 
-Region Annotation
-Import Label Image...
-
-
 .. image:: images/roi.png
-  :width: 800px
-  :height: 400px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
 
+
+Region Annotation
+Import Label Image...
+(simple function)
 
 Puncta
 Detect Puncta...
@@ -114,8 +105,8 @@ Generate Analysis Text Files...
 
 
 .. image:: images/puncta.png
-  :width: 800px
-  :height: 400px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -127,8 +118,8 @@ Change Animation Settings...
 
 
 .. image:: images/animation.png
-  :width: 800px
-  :height: 400px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -147,8 +138,8 @@ Edit and Output
 
 
 .. image:: images/window.png
-  :width: 800px
-  :height: 400px
+  :width: 400px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -167,28 +158,47 @@ Run Custom Command
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Command referred to as Ctrl for Windows PC 
 
-2D Image Control <br>
-zoom: <br>
-1) command/control & +(bigger), -(smaller) <br>
-2) + / - <br>
-zoom in/out to location: <br>
-1) + / - while pointing mouse cursor to the target location <br>
+2D Image Control
 
-3D Image Control <br>
-zoom/dolly: <br>
-1) command/control key + mouse wheel scroll <br>
-2) command/control key + =(+)/- key <br>
-3) mouse wheel scroll (might be slow if image is rendered in full-resolution) <br>
-4) =(+)/- key (might be slow if image is rendered in full-resolution) <br>
-rotate: <br>
-1) mouse drag <br>
-2) command/control key + Left/Right/Up/Down key <br>
-shift: <br>
-1) shift key + mouse drag <br>
-2) shift key + Left/Right/Up/Down key (might be slow if image is rendered in full-resolution) <br>
-roll: <br>
-1) alt key + mouse drag <br>
-2) alt key + Left/Right key (might be slow if image is rendered in full-resolution) <br>
+zoom: 
+
+1) command/control & +(bigger), -(smaller)
+
+2) + / - 
+
+zoom in/out to location:
+
+1) + / - while pointing mouse cursor to the target location
+
+3D Image Control
+
+zoom/dolly:
+
+1) command/control key + mouse wheel scroll 
+
+2) command/control key + =(+)/- key 
+
+3) mouse wheel scroll (might be slow if image is rendered in full-resolution) 
+
+4) =(+)/- key (might be slow if image is rendered in full-resolution)
+
+rotate: 
+
+1) mouse drag
+
+2) command/control key + Left/Right/Up/Down key
+
+shift: 
+
+1) shift key + mouse drag
+2) shift key + Left/Right/Up/Down key (might be slow if image is rendered in full-resolution)
+
+roll:
+
+1) alt key + mouse drag
+
+2) alt key + Left/Right key (might be slow if image is rendered in full-resolution)
+
 
 General Shortcut Functions
 
