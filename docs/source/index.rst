@@ -2,8 +2,8 @@ Atlas: an Open-Source Software Package for Biological-Image Visualization
 =========================================================================
 
 .. image:: images/atlasp.png
-  :width: 40px
-  :height: 20px
+  :width: 80px
+  :height: 80px
   :scale: 100%
   :alt: Atlas Figure1
   :align: right

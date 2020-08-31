@@ -12,7 +12,7 @@ Contents
   :height: 600px
   :autoplay:
   :noncontrols:
-  :align: center
+
 
 
 1.1 Installation
