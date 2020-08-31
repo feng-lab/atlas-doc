@@ -42,8 +42,9 @@ Atlas aims to provide useful functionality for a broad range of researchers, fro
 
 Quick Start Video
 ^^^^^^^^^^^^^^^^^
-* will add the video(->need to create & upload YouTube first) 
-This screencast will help you get started or you can read our 'Atlas Guideline' below. 
+https://youtu.be/E8J-MxkBskE
+ 
+This screencast will help you get started or you can read our 'Atlas Guideline' below 
 
 Atlas Guideline
 ^^^^^^^^^^^^^^^

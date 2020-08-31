@@ -6,7 +6,8 @@ Contents
 
 1. Getting Started
 ^^^^^^^^^^^^^^^^^^
-* Will be upload the video(already made) 
+https://youtu.be/E8J-MxkBskE
+
 
 1.1 Installation
 ^^^^^^^^^^^^^^^^
@@ -26,14 +27,14 @@ Contents
 ^^^^^^^^^^^^^^^^^^
 2.1.1 General Functions
 ^^^^^^^^^^^^^^^^^^^^^^^ 
-File
-FIle -> Open...
+File -> Open...
+
 Open a file, which can be a TIFF or an SWC file or others
 
 
 .. image:: images/file.png
-  :width: 400px
-  :height: 200px
+  :width: 800px
+  :height: 400px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -51,24 +52,34 @@ Open an existing scene file
   :align: center
 
 Edit
+
 Undo/Redo/Copy/Paste/Start Dictation...
+
 Atlas supports unlimited undo/redo for most SWC & others editing operations
 
 View
-Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / Normal View / Maximum Z Projection / Montage View / Open 3D WIondow / Screenshot / Enter Full Screen
+
+Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / 
+
+Normal View / Maximum Z Projection / Montage View / Open 3D WIondow / 
+
+Screenshot / Enter Full Screen
 
 
 .. image:: images/view.png
   :width: 400px
-  :height: 200px
+  :height: 300px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
 
 
 Image
+
 Stitch Images...
+
 Align Selections...
+
 Correct Chromatic Shift...
 
 
@@ -81,10 +92,13 @@ Correct Chromatic Shift...
 
 
 ROI
+
 (# Manual delineation of region of interests (ROIs)
+
 To obtain the surface ROIs, surface editing functions in Atlas SW)
 
 Import Mask Image...
+
 To Mask Image...
 
 .. image:: images/roi.png
@@ -96,11 +110,15 @@ To Mask Image...
 
 
 Region Annotation
+
 Import Label Image...
+
 (simple function)
 
 Puncta
+
 Detect Puncta...
+
 Generate Analysis Text Files...
 
 
@@ -113,7 +131,9 @@ Generate Analysis Text Files...
 
 
 Animation
+
 Make 2D Animation
+
 Change Animation Settings...
 
 
@@ -126,32 +146,48 @@ Change Animation Settings...
 
 
 Open 3D Window
+
 User can make 3D animation
+
 Window
+
 Object Manager
+
 Object View Settings
+
 Object Detailed Info
+
 Global View Setting
+
 Capture
+
 Help 
+
 Edit and Output
 
 
 .. image:: images/window.png
   :width: 400px
-  :height: 200px
+  :height: 300px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
 
 
 Help
+
 Search
+
 Help
+
 View Log
+
 Open Log Folder
+
 Run Benchmark
+
 Unit Test
+
 Run Custom Command
 
 2.1.2 Keyboard Shortcuts
@@ -212,7 +248,7 @@ General Shortcut Functions
 
 
 
-Tutorials and Examples
+2.2 Tutorials and Examples
 ^^^^^^^^^^^^^^^^^^^^^^
 1. Load Image
 Load image by dragging file into Atlas window or using the File menu.
