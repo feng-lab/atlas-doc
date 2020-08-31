@@ -39,7 +39,7 @@ Open a file, which can be a TIFF or an SWC file or others
 
 .. image:: images/file.png
   :width: 800px
-  :height: 400px
+  :height: 600px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -73,7 +73,7 @@ Screenshot / Enter Full Screen
 
 .. image:: images/view.png
   :width: 400px
-  :height: 300px
+  :height: 400px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -108,7 +108,7 @@ To Mask Image...
 
 .. image:: images/roi.png
   :width: 400px
-  :height: 200px
+  :height: 100px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -454,7 +454,20 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
+3. Vaa3D Plugin
+^^^^^^^^^^^^^^^
+Atlas can be integrated into Vaa3D(vaa3d.org) as a plugin.
+You can find it in the Vaa3d menu at 'Plugins'
 
+ 
+4. Future Direction
+^^^^^^^^^^^^^^^^^^^
+
+Due to the COVID-19, KIST Users' interview has been delayed 
+
+Previously, Atlas is used for what kind of research, and what we can do! 
+will be uploaded soon!
+ 
 
 
 
