@@ -7,12 +7,12 @@ Contents
 1. Getting Started
 ^^^^^^^^^^^^^^^^^^
 
-.. raw:: html
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/E8J-MxkBskE" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+.. video:: video/Video1.mp4
+  :width: 800px
+  :height: 600px
+  :autoplay:
+  :noncontrols:
+  :align: center
 
 
 1.1 Installation
@@ -92,7 +92,7 @@ Correct Chromatic Shift...
 
 .. image:: images/stitchimages.png
   :width: 400px
-  :height: 200px
+  :height: 300px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -110,7 +110,7 @@ To Mask Image...
 
 .. image:: images/roi.png
   :width: 400px
-  :height: 100px
+  :height: 300px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -131,7 +131,7 @@ Generate Analysis Text Files...
 
 .. image:: images/puncta.png
   :width: 400px
-  :height: 200px
+  :height: 150px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -146,7 +146,7 @@ Change Animation Settings...
 
 .. image:: images/animation.png
   :width: 400px
-  :height: 200px
+  :height: 150px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
