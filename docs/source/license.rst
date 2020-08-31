@@ -62,6 +62,7 @@ Undo/Redo/Copy/Paste/Start Dictation...
 
 Atlas supports unlimited undo/redo for most SWC & others editing operations
 
+
 View
 
 Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / 
@@ -457,7 +458,7 @@ Additional Notes
 3. Vaa3D Plugin
 ^^^^^^^^^^^^^^^
 Atlas can be integrated into Vaa3D(vaa3d.org) as a plugin.
-You can find it in the Vaa3d menu at 'Plugins'
+You can find it in the Vaa3d menu at 'Plug-In'
 
  
 4. Future Direction
