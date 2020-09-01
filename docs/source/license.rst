@@ -7,7 +7,7 @@ Contents
 1. Getting Started
 ^^^^^^^^^^^^^^^^^^
 
-.. video:: video/Video1.mp4
+.. video:: /Users/Yuri/atlas-doc/atlas-doc/docs/source/video/Video1.mp4
   :width: 800px
   :height: 600px
   :autoplay:
