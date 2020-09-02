@@ -7,10 +7,10 @@ Authors
 Linqing Feng(feng@kist.re.kr)
 
 
-Center for Functional Connectomics
+Brain Science Institute(BSI)
 
 
-Korea Institute of Science and Technology
+Korea Institute of Science and Technology(KIST)
 
 LICENSE
 ^^^^^^^
