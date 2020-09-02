@@ -92,7 +92,7 @@ Correct Chromatic Shift...
 
 .. image:: images/stitchimages.png
   :width: 400px
-  :height: 300px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -110,7 +110,7 @@ To Mask Image...
 
 .. image:: images/roi.png
   :width: 400px
-  :height: 300px
+  :height: 200px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
