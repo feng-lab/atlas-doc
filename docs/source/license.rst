@@ -255,8 +255,12 @@ General Shortcut Functions
 
 
 
-2.2 Tutorials and Examples
+3 Tutorials and Examples
 ^^^^^^^^^^^^^^^^^^^^^^
+
+3.1 3D Video Tutorial
+^^^^^^^^^^^^^^^^^^^^
+
 1. Load Image
 Load image by dragging file into Atlas window or using the File menu.
 Loaded image will be shown in the upper right "Object Manager" panel: 
@@ -456,19 +460,19 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3. Image Stacks & Cell Signals & 3D Visualization  
+3.2 Image Stacks & Cell Signals & 3D Visualization  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure1. Atlas Neuron Visualization 
 * 3D Reconstruction 
 
  
-4. Brain Mapping Atlas & Annotation  
+3.3 Brain Mapping Atlas & Annotation  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure2. Atlas Lemur Brain Visualization
 
-5. Atlas Object View & Global View 
+3.4 Atlas Object View & Global View 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
 
 * Video Function & How to use it 
