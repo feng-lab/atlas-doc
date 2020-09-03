@@ -1,4 +1,4 @@
-Atlas Tutorial
+iAtlas Tutorial
 ==============
 
 Contents
@@ -464,13 +464,11 @@ Atlas can be integrated
 4. Brain Mapping Atlas & Annotation  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-5. 
+5. Atlas Object View & Global View 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
 
 Due to the COVID-19, KIST Users' interview has been delayed 
 
 Previously, Atlas is used for what kind of research, and what we can do! 
 will be uploaded soon!
  
-
-
-
