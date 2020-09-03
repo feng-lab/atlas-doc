@@ -1,4 +1,4 @@
-iAtlas Tutorial
+Atlas Tutorial
 ==============
 
 Contents
@@ -456,8 +456,8 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3. 3D-Visualization & Image stacks 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3. Image Stacks & Cell Signals & 3D Visualization  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure1. Atlas Neuron Visualization 
 * 3D Reconstruction 
