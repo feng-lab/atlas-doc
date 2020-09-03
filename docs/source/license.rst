@@ -460,20 +460,25 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3.2 Image Stacks & Cell Signals & 3D Visualization  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3.2 Analzing Fluorescence Microscopy Images with Atlas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+3.3 Image Stacks & Cell Signals & 3D Visualization  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure1. Atlas Neuron Visualization 
 * 3D Reconstruction 
-
  
-3.3 Brain Mapping Atlas & Annotation  
+3.4 Brain Mapping Atlas & Annotation  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure2. Atlas Lemur Brain Visualization
 
-3.4 Atlas Object View & Global View 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+3.5 Cell Counting and Analysis Cells 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Total Count, Total Area, Average Size, Area Fraction  
+
 
 * Video Function & How to use it 
 * Method 
