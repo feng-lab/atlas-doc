@@ -456,15 +456,15 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3. Vaa3D Plugin
-^^^^^^^^^^^^^^^
-Atlas can be integrated into Vaa3D
-:Vaa3D: role will link to <vaa3d.org> as a plugin.
-You can find it in the Vaa3d menu at 'Plug-In'
+3. Real-time 3D visualization & Image stacks 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Atlas can be integrated 
 
  
-4. Future Direction
-^^^^^^^^^^^^^^^^^^^
+4. Brain Mapping Atlas & Annotation  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+5. 
 
 Due to the COVID-19, KIST Users' interview has been delayed 
 
