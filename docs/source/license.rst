@@ -456,16 +456,23 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3. Real-time 3D visualization & Image stacks 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Atlas can be integrated 
+3. 3D-Visualization & Image stacks 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Figure1. Atlas Neuron Visualization 
+* 3D Reconstruction 
 
  
 4. Brain Mapping Atlas & Annotation  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* Figure2. Atlas Lemur Brain Visualization
+
 5. Atlas Object View & Global View 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+
+* Video Function & How to use it 
+* Method 
 
 Due to the COVID-19, KIST Users' interview has been delayed 
 
