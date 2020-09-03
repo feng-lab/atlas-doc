@@ -31,6 +31,7 @@ Download is available for Mac OS, Windows, Linux
 
 
 Compared to Other Well-Known Image Visualization Software,
+
 * Atlas is the simplest and easiest image visualization tool
 * Simple & Easy to use for First-Time Users
 * We focused on the User-Friendly Interface Design with the Full of Effort and Dedication 
