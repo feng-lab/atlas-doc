@@ -42,7 +42,9 @@ Atlas aims to provide useful functionality for a broad range of researchers, fro
 
 Quick Start Video
 ^^^^^^^^^^^^^^^^^
-https://youtu.be/E8J-MxkBskE
+
+.. youtube:: https://youtu.be/E8J-MxkBskE
+.. youtube:: E8J-MxkBskE
  
 This screencast will help you get started or you can read our 'Atlas Guideline' below 
 

@@ -458,7 +458,8 @@ Additional Notes
 
 3. Vaa3D Plugin
 ^^^^^^^^^^^^^^^
-Atlas can be integrated into Vaa3D(vaa3d.org) as a plugin.
+Atlas can be integrated into Vaa3D
+:Vaa3D: role will link to <vaa3d.org> as a plugin.
 You can find it in the Vaa3d menu at 'Plug-In'
 
  
