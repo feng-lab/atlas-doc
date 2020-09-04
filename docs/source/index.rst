@@ -29,6 +29,10 @@ Download is available for Mac OS, Windows, Linux
 * 2D & 3D Video Recorder
 * Support 3D Image formats - DICOM, NIfTI, SWC, Tiff(.ome.tif, ome.tiff), RAW(.v3draw, .raw), HDF5img(.nim, .h5), jpeg, png, Kitware, MetaImage(.mhd, .mha), etc.
 
+Atlas Sample Video
+^^^^^^^^^^^^^^^^^^
+https://www.youtube.com/watch?v=5ftqp6CLTgU
+
 
 Compared to Other Well-Known Image Visualization Software,
 
