@@ -33,8 +33,8 @@ Atlas Sample Video
 ^^^^^^^^^^^^^^^^^^
 https://www.youtube.com/watch?v=5ftqp6CLTgU
 
-Above video is made by Dr.Feng (PI, AtlasSW  Developer) 
-If you are interested in making this video, see the tutorial part.
+* Above video is made by Dr.Feng (PI, AtlasSW  Developer) 
+* If you are interested in making this video, see the tutorial part.
 
  
 Compared to Other Well-Known Image Visualization Software,
