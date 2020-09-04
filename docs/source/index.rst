@@ -51,11 +51,9 @@ Atlas aims to provide useful functionality for a broad range of researchers, fro
 Quick Start Video
 ^^^^^^^^^^^^^^^^^
 
-.. youtube:: https://www.youtube.com/watch?v=E8J-MxkBskE
-    :width: 640
-    :height: 480
+https://www.youtube.com/watch?v=E8J-MxkBskE
  
-This screencast will help you get started or you can read our 'Atlas Guideline' below 
+* This screencast will help you get started or you can read our 'Atlas Guideline' below 
 
 Atlas Guideline
 ^^^^^^^^^^^^^^^
