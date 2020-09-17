@@ -558,6 +558,14 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+.. image:: images/cell3.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
 .. image:: images/cell1.png
   :width: 1000px
   :height: 600px
