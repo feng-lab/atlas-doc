@@ -36,7 +36,7 @@ Contents
 File -> Open...
 
 Open a file, which can be a TIFF or an SWC file or others
-
+You can simply open a file(your image file) with this function
 
 .. image:: images/file.png
   :width: 800px
@@ -46,8 +46,9 @@ Open a file, which can be a TIFF or an SWC file or others
   :align: center
 
 
-Or
-File Icon (First one)
+Or (second way to open a file)
+
+File Icon (First picture)
 Open an existing scene file
 
 .. image:: images/open.png
@@ -57,21 +58,18 @@ Open an existing scene file
   :alt: Atlas Figure1
   :align: center
 
-Edit
+
+Edit (You can edit the file below function)
 
 Undo/Redo/Copy/Paste/Start Dictation...
 
-Atlas supports unlimited undo/redo for most SWC & others editing operations
+* Atlas supports unlimited undo/redo for most SWC & others editing operations
 
 
-View
 
-Zoom In(Command & +) / Zoom Out(Command & -) / Fit into WIndow / 
+View (Adjust how to display of your file) 
 
-Normal View / Maximum Z Projection / Montage View / Open 3D WIondow / 
-
-Screenshot / Enter Full Screen
-
+Zoom In(Command & +) / Zoom Out(Command & -) /
 
 .. image:: images/view.png
   :width: 400px
@@ -81,13 +79,7 @@ Screenshot / Enter Full Screen
   :align: center
 
 
-Image
-
-Stitch Images...
-
-Align Selections...
-
-Correct Chromatic Shift...
+Image (Adjust the Image, functions below)
 
 
 .. image:: images/stitchimages.png
@@ -98,15 +90,9 @@ Correct Chromatic Shift...
   :align: center
 
 
-ROI
-
-(# Manual delineation of region of interests (ROIs)
+ROI (Manual Delineation of Region of Intierests (ROIs)
 
 To obtain the surface ROIs, surface editing functions in Atlas SW)
-
-Import Mask Image...
-
-To Mask Image...
 
 .. image:: images/roi.png
   :width: 400px
@@ -118,15 +104,10 @@ To Mask Image...
 
 Region Annotation
 
-Import Label Image...
+Import Label Image... (You can use this function with your labeled image)
 
-(simple function)
 
-Puncta
-
-Detect Puncta...
-
-Generate Analysis Text Files...
+Puncta (Defined circular area above and around the nucleus of all transfected cells)
 
 
 .. image:: images/puncta.png
@@ -137,11 +118,8 @@ Generate Analysis Text Files...
   :align: center
 
 
-Animation
+Animation (You can create your own 2D/3D video with this function)
 
-Make 2D Animation
-
-Change Animation Settings...
 
 
 .. image:: images/animation.png
@@ -152,25 +130,11 @@ Change Animation Settings...
   :align: center
 
 
-Open 3D Window
+Open 3D Window (You can visualize your image in 3D)
 
-User can make 3D animation
 
-Window
 
-Object Manager
-
-Object View Settings
-
-Object Detailed Info
-
-Global View Setting
-
-Capture
-
-Help 
-
-Edit and Output
+Window (You can open & close the below function, when you open the function, you can check the  right side box)
 
 
 .. image:: images/window.png
@@ -181,41 +145,29 @@ Edit and Output
   :align: center
 
 
-Help
+Help (You can serch the function you want)
 
-Search
 
-Help
-
-View Log
-
-Open Log Folder
-
-Run Benchmark
-
-Unit Test
-
-Run Custom Command
 
 2.1.2 Keyboard Shortcuts
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Command referred to as Ctrl for Windows PC 
+* Command referred to as Ctrl for Windows PC 
 
-2D Image Control
+* 2D Image Control
 
-zoom: 
+* zoom: 
 
 1) command/control & +(bigger), -(smaller)
 
 2) + / - 
 
-zoom in/out to location:
+* zoom in/out to location:
 
 1) + / - while pointing mouse cursor to the target location
 
-3D Image Control
+* 3D Image Control
 
-zoom/dolly:
+* zoom/dolly:
 
 1) command/control key + mouse wheel scroll 
 
@@ -225,25 +177,25 @@ zoom/dolly:
 
 4) =(+)/- key (might be slow if image is rendered in full-resolution)
 
-rotate: 
+* rotate: 
 
 1) mouse drag
 
 2) command/control key + Left/Right/Up/Down key
 
-shift: 
+* shift: 
 
 1) shift key + mouse drag
 2) shift key + Left/Right/Up/Down key (might be slow if image is rendered in full-resolution)
 
-roll:
+* roll:
 
 1) alt key + mouse drag
 
 2) alt key + Left/Right key (might be slow if image is rendered in full-resolution)
 
 
-General Shortcut Functions
+* General Shortcut Functions
 
 
 .. image:: images/table.png
@@ -460,8 +412,26 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3.2 Analzing Fluorescence Microscopy Images with Atlas
+3.2 Analyzing Fluorescence Microscopy Image with Atlas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+3D Mouse Brain Modeling with Atlas
+==================================
+
+.. image:: images/atlas11.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+Figure1. Atlas 3D Visualization. Use of Atlas in visualizing a digital model of a mouse brain. 
+
+Grey voxels: 3D volumetric image of a mouse brain; turquoise, lavender, and ultramarine blue voxels: Mouse Hippocampus; shows structure and functions in great detail. Black boxels: Aligned interpolation.    
+
+Atlas visualization: From the global viewer, object viewers from various brain regions can be initialized. Object viewers can have their own transform parameters, scale, rotation, transition, rotation center, channels, and color maps independently of the global viewer. 
+
+
 
 3.3 Image Stacks & Cell Signals & 3D Visualization  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
