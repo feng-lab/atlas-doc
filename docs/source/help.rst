@@ -4,13 +4,13 @@ About Atlas
 Authors
 
 
-Linqing Feng(feng@kist.re.kr)
+Dr. Linqing Feng(feng@kist.re.kr)
 
 
-Brain Science Institute(BSI)
+Brain Science Institute (BSI)
 
 
-Korea Institute of Science and Technology(KIST)
+Korea Institute of Science and Technology (KIST)
 
 LICENSE
 ^^^^^^^
@@ -37,7 +37,7 @@ THE SOFTWARE.
 Need further help?
 ^^^^^^^^^^^^^^^^^^
 If you need help or are having trouble
-Please contact Yuri Na(yuri@kist.re.kr)
+Please contact KIST School Ph.D. Student, Yuri Na(yuri@kist.re.kr)
 
 
 Atlas Download

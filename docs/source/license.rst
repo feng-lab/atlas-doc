@@ -538,7 +538,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 .. image:: images/lemur2.png
   :width: 800px
-  :height: 400px
+  :height: 350px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -546,7 +546,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 .. image:: images/lemur3.png
   :width: 800px
-  :height: 400px
+  :height: 350px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -559,16 +559,16 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 
 .. image:: images/cell1.png
-  :width: 800px
-  :height: 400px
+  :width: 1000px
+  :height: 600px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
 
 
 .. image:: images/cell2.png
-  :width: 800px
-  :height: 400px
+  :width: 1000px
+  :height: 600px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -580,8 +580,6 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 * Video Function & How to use it 
 * Method 
-
-Due to the COVID-19, KISTi Users' interview has been delayed 
 
 Previously, Atlas is used for what kind of research, and what we can do! 
 will be uploaded soon!
