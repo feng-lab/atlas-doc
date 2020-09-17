@@ -415,8 +415,8 @@ Additional Notes
 3.2 Analyzing Fluorescence Microscopy Image with Atlas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3D Mouse Brain Modeling with Atlas
-==================================
+3.2.1 3D Mouse Brain Modeling with Atlas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
 
 .. image:: images/atlas11.png
   :width: 800px
