@@ -208,10 +208,10 @@ Help (You can serch the function you want)
 
 
 3 Tutorials and Examples
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.1 3D Video Tutorial
-^^^^^^^^^^^^^^^^^^^^
+3.1 3D Animation Tutorial
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Load Image
 Load image by dragging file into Atlas window or using the File menu.
@@ -412,7 +412,7 @@ Additional Notes
   :alt: Atlas Figure1
   :align: center
 
-3.2 Analyzing Fluorescence Microscopy Image with Atlas
+3.2 Fluorescence Microscopy Image with Atlas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 3.2.1 3D Mouse Brain Modeling with Atlas
@@ -532,6 +532,24 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 3.5 Cell Counting and Analysis Cells 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. image:: images/cell1.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/cell2.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
 
 * Total Count, Total Area, Average Size, Area Fraction  
 
