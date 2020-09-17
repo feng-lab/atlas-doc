@@ -528,6 +528,30 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 3.4 Brain Mapping Atlas & Annotation  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: images/lemur1.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/lemur2.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/lemur3.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
 * Figure2. Atlas Lemur Brain Visualization
 
 3.5 Cell Counting and Analysis Cells 
