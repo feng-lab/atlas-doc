@@ -433,11 +433,97 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 
 
-3.3 Image Stacks & Cell Signals & 3D Visualization  
+3.3 Image Stitching & Stacks & Cell Signals & 3D Visualization  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Figure1. Atlas Neuron Visualization 
-* 3D Reconstruction 
+* Figure1. Atlas Stitching Function 
+
+
+.. image:: images/stitch1.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/stitch2.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/stitch3.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/stitch4.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+* Figure2. Stacks & Neuronal Visualization
+
+
+.. image:: images/neuron1.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/neuron2.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/neuron3.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/neuron4.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+* Figure3. Signals 
+ 
+
+.. image:: images/signal1.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/signal2.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
  
 3.4 Brain Mapping Atlas & Annotation  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -453,7 +539,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 * Video Function & How to use it 
 * Method 
 
-Due to the COVID-19, KIST Users' interview has been delayed 
+Due to the COVID-19, KISTi Users' interview has been delayed 
 
 Previously, Atlas is used for what kind of research, and what we can do! 
 will be uploaded soon!
