@@ -537,7 +537,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 .. image:: images/lemur2.png
   :width: 800px
-  :height: 350px
+  :height: 300px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
@@ -545,7 +545,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 .. image:: images/lemur3.png
   :width: 800px
-  :height: 350px
+  :height: 300px
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
