@@ -11,8 +11,9 @@ Contents
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/watch?v=ZNA0Q2Gygsc&t=16s&ab_channel=AtlasSoftware" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+        <iframe src="//www.youtube.com/watch?v=ZNA0Q2Gygsc&t=16s&ab_channel=AtlasSoftware" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+
 
 1.1 Installation
 ^^^^^^^^^^^^^^^^
@@ -565,7 +566,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
   :align: center
 
 
-.. image:: images/cell1.png
+.. image:: images/cell11.png
   :width: 1000px
   :height: 600px
   :scale: 100%
@@ -573,7 +574,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
   :align: center
 
 
-.. image:: images/cell2.png
+.. image:: images/cell22.png
   :width: 1000px
   :height: 600px
   :scale: 100%
