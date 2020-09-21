@@ -7,7 +7,7 @@ Contents
 1. Getting Started
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: images/Video1.mp4
+.. youtube:: https://www.youtube.com/watch?v=ZNA0Q2Gygsc&t=16s&ab_channel=AtlasSoftware
   :width: 800px
   :height: 600px
   :scale: 100%
