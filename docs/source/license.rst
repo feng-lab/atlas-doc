@@ -562,6 +562,33 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 * Total Count, Total Area, Average Size, Area Fraction  
 
+3.6 Brain Tumor Segmentation Dataset (Brats Series)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. image:: images/mri1.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/mri2.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+ 
+
+.. image:: images/mri3.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
 
 * Video Function & How to use it 
 * Method 
