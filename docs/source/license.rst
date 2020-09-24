@@ -475,31 +475,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 * Figure2. Stacks & Neuronal Visualization
 
 
-.. image:: images/neuron1.png
-  :width: 800px
-  :height: 400px
-  :scale: 100%
-  :alt: Atlas Figure1
-  :align: center
-
-
-.. image:: images/neuron2.png
-  :width: 800px
-  :height: 400px
-  :scale: 100%
-  :alt: Atlas Figure1
-  :align: center
-
-
-.. image:: images/neuron3.png
-  :width: 800px
-  :height: 400px
-  :scale: 100%
-  :alt: Atlas Figure1
-  :align: center
-
-
-.. image:: images/neuron4.png
+.. image:: images/neuron111.png
   :width: 800px
   :height: 400px
   :scale: 100%
