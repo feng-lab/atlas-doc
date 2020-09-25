@@ -531,8 +531,11 @@ Atlas visualization: From the global viewer, object viewers from various brain r
   :align: center
 
  
-3.4 Brain Mapping Atlas & Annotation  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3.4 Brain Reference Atlases & Mapping your Own Data  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Allen Mouse Brain Atlas includes a high-resoulution anatomic reference atlas. Atlas SW have a tool for mapping your own data. We have done our Lemur Brain data with Atlas. 
+
 
 .. image:: images/lemur1.png
   :width: 800px
@@ -560,8 +563,10 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 * Figure2. Atlas Lemur Brain Visualization
 
-3.5 Cell Counting and Analysis Cells 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3.5 Cell Visualization
+^^^^^^^^^^^^^^^^^^^^^^
+
+
 
 
 .. image:: images/cell3.png
@@ -599,7 +604,6 @@ BraTs annotations & structures for BraTS 2020,
 Image patches with the tumor sub-regions annotated in the different MRI modalities, whole tumor(Edema/Invasion), tomur core(non-enhancing), enhancing tumor, and necrosis were visualized by Atlas. 
 
 
-
 .. image:: images/mri1.png
   :width: 1000px
   :height: 600px
@@ -622,11 +626,4 @@ Image patches with the tumor sub-regions annotated in the different MRI modaliti
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
-
-
-* Video Function & How to use it 
-* Method 
-
-Previously, Atlas is used for what kind of research, and what we can do! 
-will be uploaded soon!
  
