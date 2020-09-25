@@ -416,8 +416,9 @@ Additional Notes
 3.2 Fluorescence Microscopy Image with Atlas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.2.1 3D Mouse Brain Modeling with Atlas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+3.2.1 3D Mouse Brain Modeling & Visualization
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .. image:: images/atlas11.png
   :width: 800px
@@ -435,7 +436,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 
 3.3 Image Stitching & Stacks & Cell Signals & 3D Visualization  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure1. Atlas Stitching Function 
 
@@ -472,10 +473,38 @@ Atlas visualization: From the global viewer, object viewers from various brain r
   :align: center
 
 
+
+
+
+
 * Figure2. Stacks & Neuronal Visualization
 
 
 .. image:: images/neuron111.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+ 
+
+.. image:: images/neuron44.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/neuron55.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/neuron66.png
   :width: 800px
   :height: 400px
   :scale: 100%
@@ -560,10 +589,15 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 
 
-* Total Count, Total Area, Average Size, Area Fraction  
+3.6 Human Brain MRI Image Visualization
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.6 Brain Tumor Segmentation Dataset (Brats Series)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+To visualize the MRI, Atlas is suitable platform to see the brain vessels, tumor, and other tomur core channels.  
+These are "Brain Tumor Segmentation Dataset (BraTS) Challenge" dataset images used.
+BraTs has been focusing on the evaluation of state-of-the-art methods for the segmentation of brain tumors in multimodal magnetic resonance imaging(MRI) scans. 
+BraTs annotations & structures for BraTS 2020, 
+Image patches with the tumor sub-regions annotated in the different MRI modalities, whole tumor(Edema/Invasion), tomur core(non-enhancing), enhancing tumor, and necrosis were visualized by Atlas. 
+
 
 
 .. image:: images/mri1.png
