@@ -477,7 +477,19 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 
 
-* Figure2. Stacks & Neuronal Visualization
+* Figure3. Creating 3D Neuron Reconstructions from Image Stacks and Virtual Slides
+
+(need to add pics)
+
+* Z-projection (a digital image processing method, combines multiple images taken at different focal distances Z-stacking to provide a composite image with a greater depth of field) 
+
+(need to add pics)
+
+* Process a confocal image 
+
+(need to add pics) 
+
+* Neuron Visualization 
 
 
 .. image:: images/neuron111.png
