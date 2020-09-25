@@ -674,7 +674,8 @@ Image patches with the tumor sub-regions annotated in the different MRI modaliti
 
 
 * 3D Brain Vessel Visualization
-Atlas can visualize the brain vessel image. Previously Atlas is used for "A 3-D Image Analysis of Human Cerebral Small Vessel Disease(CSVD) Project." 
+Atlas can visualize the brain vessel image. Image analysis plays a pivotal role, which gives a clue in identifying the different manifestation of Human Cerebral Small Vessel Disease(CSVD). Atlas is used to visualize the microcirculation vascular integrity of individuals with and without CSVD. It is also used to visualize the blood vessel network of brains from non-invasive 3D-time-of-flight Magnetic Resonance Angiography (MRA) images. The quantitative analysis of the reconstructed blood vessel network provides potentially valuable information for the diagnostic and monitoring of CSVD. 
+
 
 .. image:: images/vessel1.png
   :width: 1000px

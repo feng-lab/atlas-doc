@@ -8,7 +8,7 @@ Atlas: an Open-Source Software Package for Biological-Image Visualization
   :alt: Atlas Figure1
   :align: right
 
-Atlas is an open source software for 3D/4D/5D digital image visualization, analyzing fluorescence microscopy 2D & 3D image stacks, cell signals, visualizes various surface objects, digitally reconstructed neurons, 3D reconstruction, user-defined annotations in 2D & 3D space, brain modeling, image stitching, human mri, and displaying fuctional biological-image data, etc.
+Atlas is an open source software for 3D/4D/5D digital image visualization, analyzing fluorescence microscopy 2D & 3D image stacks, cell signals, visualizes various surface objects, digitally reconstructed neurons, 3D reconstruction, user-defined annotations in 2D & 3D space, brain modeling, image stitching, human MRI & MRA, and displaying fuctional biological-image data, etc.
 
 We propose Atlas as a software for productive collaboration between biological research and bioimaging-informatics, and  computer science communities.
      
