@@ -534,7 +534,7 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 3.4 Brain Reference Atlases & Mapping your Own Data  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Allen Mouse Brain Atlas includes a high-resoulution anatomic reference atlas. Atlas SW have a tool for mapping your own data. We have done our Lemur Brain data with Atlas. 
+The Allen Mouse Brain Atlas includes a high-resoulution anatomic reference atlas. Atlas SW have a tool for mapping your own data. We have done our Lemur Brain data with Atlas SW. 
 
 
 .. image:: images/lemur1.png
@@ -566,7 +566,9 @@ The Allen Mouse Brain Atlas includes a high-resoulution anatomic reference atlas
 3.5 Cell Visualization
 ^^^^^^^^^^^^^^^^^^^^^^
 
-
+Cell nuclei in microscopic image visualization.
+Previously, Feng lab used Atlas to visualize and analyze the cell nuclei images.
+Used Atlas annotation function and applied Deep Learning Mask R-CNN method to train the image sets and have achieved state-of-the-art nucleus segmentation.
 
 
 .. image:: images/cell3.png
@@ -621,6 +623,33 @@ Image patches with the tumor sub-regions annotated in the different MRI modaliti
  
 
 .. image:: images/mri3.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+* 3D Brain Vessel Visualization
+
+
+.. image:: images/vessel1.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/vessel2.png
+  :width: 1000px
+  :height: 600px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/vessel3.png
   :width: 1000px
   :height: 600px
   :scale: 100%
