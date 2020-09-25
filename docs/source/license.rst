@@ -93,7 +93,7 @@ Image (Adjust the Image, functions below)
 
 ROI (Manual Delineation of Region of Intierests (ROIs)
 
-To obtain the surface ROIs, surface editing functions in Atlas SW)
+Obtain the surface ROIs, surface editing functions
 
 .. image:: images/roi.png
   :width: 400px
@@ -439,7 +439,10 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Figure1. Atlas Stitching Function 
+Images obtained from fluorescene microscopes or digital microscope, alline, realign, and combine microscope images of different parts of the sample, stitching function is needed. 
+Atlas stitching function provides a seamlessly stitch microscope images together in a nifty ans faster to merge multiple microscope images into a single image. 
 
+The process of combining multiple 2D/3D images with overlapping fields of view to produce a high resolution image. By stitching overlapping image tiles, it is enable to visualize the images in one scene, time-lapse studies of entire cell cultures in multiple imaging modalities. 
 
 .. image:: images/stitch1.png
   :width: 800px
@@ -473,13 +476,30 @@ Atlas visualization: From the global viewer, object viewers from various brain r
   :align: center
 
 
+(** I do not have the images, so used the previous movie **) 
 
 
 
 
 * Figure3. Creating 3D Neuron Reconstructions from Image Stacks and Virtual Slides
 
-(need to add pics)
+
+.. image:: images/dataset.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
+.. image:: images/5.png
+  :width: 800px
+  :height: 400px
+  :scale: 100%
+  :alt: Atlas Figure1
+  :align: center
+
+
 
 * Z-projection (a digital image processing method, combines multiple images taken at different focal distances Z-stacking to provide a composite image with a greater depth of field) 
 
@@ -548,6 +568,8 @@ Atlas visualization: From the global viewer, object viewers from various brain r
 
 The Allen Mouse Brain Atlas includes a high-resoulution anatomic reference atlas. Atlas SW have a tool for mapping your own data. We have done our Lemur Brain data with Atlas SW. 
 
+* Figure2. Atlas Lemur Brain Visualization 
+
 
 .. image:: images/lemur1.png
   :width: 800px
@@ -573,7 +595,16 @@ The Allen Mouse Brain Atlas includes a high-resoulution anatomic reference atlas
   :align: center
 
 
-* Figure2. Atlas Lemur Brain Visualization
+To assist your annotation, you can see the below video 
+
+
+.. raw:: html
+
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="//www.youtube.com/embed/ZNA0Q2Gygsc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 
 3.5 Cell Visualization
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -582,6 +613,7 @@ Cell nuclei in microscopic image visualization.
 Previously, Feng lab used Atlas to visualize and analyze the cell nuclei images.
 Used Atlas annotation function and applied Deep Learning Mask R-CNN method to train the image sets and have achieved state-of-the-art nucleus segmentation.
 
+Atlas permits interactive by moving the computer mouse, users can adjust the function of rotation, zoom,and 3D pan with video. 
 
 .. image:: images/cell3.png
   :width: 1000px
@@ -605,7 +637,6 @@ Used Atlas annotation function and applied Deep Learning Mask R-CNN method to tr
   :scale: 100%
   :alt: Atlas Figure1
   :align: center
-
 
 
 3.6 Human Brain MRI Image Visualization
@@ -643,7 +674,7 @@ Image patches with the tumor sub-regions annotated in the different MRI modaliti
 
 
 * 3D Brain Vessel Visualization
-
+Atlas can visualize the brain vessel image. Previously Atlas is used for "A 3-D Image Analysis of Human Cerebral Small Vessel Disease(CSVD) Project." 
 
 .. image:: images/vessel1.png
   :width: 1000px
